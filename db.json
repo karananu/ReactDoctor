@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "DoctorName": "John",
+      "Speciality": "Orthopedics.",
+      "Rate":"$50"
+    },
+    {
+      "id": 2,
+      "DoctorName": "Lake",
+      "Speciality": "Internal Medicine",
+      "Rate":"$550"
+    },
+    {
+      "id": 3,
+      "DoctorName": "Anu",
+      "Speciality": "Obstetrics",
+      "Rate":"$90"
+    },
+    {
+      "id": 4,
+      "DoctorName": "Blake",
+      "Speciality": "Gynecology",
+      "Rate":"$190"
+    },
+    {
+      "id": 5,
+      "DoctorName": "StepJohn",
+      "Speciality": "Dermatology",
+      "Rate":"$200"
+    },
+    {
+      "id": 6,
+      "DoctorName": "Stephen",
+      "Speciality": "Pediatrics",
+      "Rate":"$220"
+    },
+    {
+      "id": 7,
+      "DoctorName": "Robert",
+      "Speciality": "Radiology.",
+      "Rate":"$230"
+    },
+    {
+      "id": 8,
+      "DoctorName": "Rohan",
+      "Speciality": "General Surgery.",
+      "Rate":"$250"
+    },
+    {
+      "id": 9,
+      "DoctorName": "Anupam",
+      "Speciality": "Ophthalmology.",
+      "Rate":"$290"
+    },
+    {
+      "id": 10,
+      "DoctorName": "Aadi",
+      "Speciality": "Cardiologist",
+      "Rate":"$300"
+    },
+    {
+      "id": 11,
+      "DoctorName": "Marx",
+      "Speciality": "Endocrinologists",
+      "Rate":"$350"
+    },
+    {
+      "id": 12,
+      "DoctorName": "Marry ",
+      "Speciality": "Family Physicians",
+      "Rate":"$400"
+    }
+   
+  ]
+}
